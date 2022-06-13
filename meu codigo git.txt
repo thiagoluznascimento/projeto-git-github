@@ -1,0 +1,4 @@
+git init = inicia um repositório.
+git status = para ver o status e versões do que foi add no git
+git add "nome do arquivo" = para add no git 
+git . = add todos os aquivos de uma vez só.
