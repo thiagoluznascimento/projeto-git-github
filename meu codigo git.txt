@@ -15,5 +15,12 @@ git reflog = para estar visualizando as versões dos arquivos.
 
 git reset --hard e o ID que vai estar na frente da versão que vc queira voltar, isso no git localmente.
 	(Para encontrar o ID, temos que rodar o comando reflog para estarmos visualizando as versões dos arquivos)
+	
+	BRANCH
 
+branch = ramificação  =  para trabalhar com duas ou mais versão do arquivo com a equipe.
 
+git branch = visualiza as branch que estão criadas.
+
+git branch e o nome da branch para criar uma nova
+	(geralmente usamos branch staging como uma segunda branch que recebe atualizaçoes que ainda nao foram testadas.)
