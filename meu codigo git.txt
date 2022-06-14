@@ -24,3 +24,6 @@ git branch = visualiza as branch que estão criadas.
 
 git branch e o nome da branch para criar uma nova
 	(geralmente usamos branch staging como uma segunda branch que recebe atualizaçoes que ainda nao foram testadas.)
+
+para mudar de branch, rodamos o seguinte comando: git checkout e o nome da branch
+	(No nosso caso seria: git checkout staging)
