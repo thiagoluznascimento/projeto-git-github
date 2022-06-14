@@ -12,3 +12,5 @@ git remote add origin link do github = define para onde o cód está sendo envia
 git push --set-upstream origin master = foi usado para fazer o login no git-hub e selecionar a branch principal (master)
 
 git reflog = para estar visualizando as versões dos arquivos.
+
+git reset --hard e o ID que vai estar na frente da versão que vc queira voltar, isso no git localmente.
