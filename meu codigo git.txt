@@ -2,3 +2,11 @@ git init = inicia um repositório.
 git status = para ver o status e versões do que foi add no git
 git add "nome do arquivo" = para add no git 
 git . = add todos os aquivos de uma vez só.
+
+git commit -m "Mensagem de primeira versão" = para enviar para o github - nuvem.
+
+git push = envia o códg para o github
+
+git remote add origin link do github = define para onde o cód está sendo enviado.
+
+ git push --set-upstream origin master = foi usado para fazer o login no git-hub e selecionar a branch principal (master)
