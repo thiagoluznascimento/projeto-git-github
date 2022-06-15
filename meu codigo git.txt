@@ -16,4 +16,4 @@ git reflog = para estar visualizando as versões dos arquivos.
 git reset --hard e o ID que vai estar na frente da versão que vc queira voltar, isso no git localmente.
 	(Para encontrar o ID, temos que rodar o comando reflog para estarmos visualizando as versões dos arquivos)
 
-
+depois de add uma branch, vamos add as versões dos arquivos na msm.
