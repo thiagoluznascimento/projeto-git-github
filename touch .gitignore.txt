@@ -1,0 +1,1 @@
+ touch .gitignore = cria um arquivo de texto para esstar adicionando todos os arquivos que você não quer que vá para o servidor git-hub
