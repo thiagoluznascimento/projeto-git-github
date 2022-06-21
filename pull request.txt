@@ -1,0 +1,4 @@
+PULL REQUEST - "UM MERGE DEMOCRÁTICO"
+
+pull request -seria para um outro programador aprovar seu código antes de enviar para 
+a branch principal.
