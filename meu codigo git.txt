@@ -33,4 +33,17 @@ depois que voltarmos novamente para nossa branch principal.
 para isso usamos o comando na branch principal: git pull
 
 git merge staging - para unir os códgos das duas branch (antes disso temos que voltar para nossa branch principal)
-t
+
+_________________________________________________________________________________________
+
+Quando estamos trabalhando em equipe, seguimos os seguintes passos.
+
+1. git pull da branch principal
+2.gerar uma nova branch a partir da branch principal
+3.trabalhar e add novas funcionalidades na nova branch que criou
+4.finalizar o trabalho na branch principal
+6.git pull
+7.mergiar(unir) o código da branch temporario com a branch principal(depois de testar)
+8.git push da branch principal
+
+________________________________________________________________________________________
