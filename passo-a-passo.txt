@@ -1,5 +1,7 @@
 git init 					inicializa um novo repositório
 
+git pull					baixa a versão mais atual para sua area de trabalho
+
 git add .					adiciona os arquivos atuais ao próxio commit
 
 git status					verifica o status atual do repositório git
