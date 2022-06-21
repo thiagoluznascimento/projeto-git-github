@@ -1,20 +1,19 @@
-1.git status para ver quais são os arquivos a serem versionados
+git init 					inicializa um novo repositório
 
-2.git add "nome do arquivo" ou . para estar adicionando todos os arquivos
+git add .					adiciona os arquivos atuais ao próxio commit
 
-3.git commit -m "mensagem que aparecerar no commit" 
+git status					verifica o status atual do repositório git
 
-4.git push para subir o cód para o servidor do git
+git commit -m "mensagem do comit"	cria um commit com uma mensagem 
 
+git push					envia atualizaçãoes para a nuvem na branch atualmente ativa
 
-	OUTROS CÓDIGOS 
+git branch					permite listar e ver qual branch está ativa atualmente
 
-git pull - para baixarmos a versão mais atual para nossa máquina.
+git checkout -b "nome da branch"	permite mudar para uma nova branch com base em outra
 
-git pull request - quando estamos trabalhando em equipe, usamos para uma outra pessoa validar nosso cód.
+git merge "branch a receber merge"	permite fazer o merge da branch ativa atualmente com outra branch
 
-git checkout nome da branch para mudarmos para outra branch.
+git pull					atualiza a branch atualmente ativa
 
-git brach nome de uma nova branch - para criarmos uma nova branch.
-
-git branch - para vermos em qual branch estamos.
+touch .gitignore				iginora os aquivos que vc não quer que suba para o servidor git (tem que add os aquivos no novo arquivo criado automaticamente)
