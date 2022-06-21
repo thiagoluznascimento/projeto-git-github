@@ -1,0 +1,20 @@
+1.git status para ver quais são os arquivos a serem versionados
+
+2.git add "nome do arquivo" ou . para estar adicionando todos os arquivos
+
+3.git commit -m "mensagem que aparecerar no commit" 
+
+4.git push para subir o cód para o servidor do git
+
+
+	OUTROS CÓDIGOS 
+
+git pull - para baixarmos a versão mais atual para nossa máquina.
+
+git pull request - quando estamos trabalhando em equipe, usamos para uma outra pessoa validar nosso cód.
+
+git checkout nome da branch para mudarmos para outra branch.
+
+git brach nome de uma nova branch - para criarmos uma nova branch.
+
+git branch - para vermos em qual branch estamos.
