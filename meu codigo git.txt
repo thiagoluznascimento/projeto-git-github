@@ -29,3 +29,4 @@ para mudar de branch, rodamos o seguinte comando: git checkout e o nome da branc
 	(No nosso caso seria: git checkout staging)
 
 git merge staging - para unir os códgos das duas branch (antes disso temos que voltar para nossa branch principal)
+t
