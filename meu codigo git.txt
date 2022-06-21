@@ -31,6 +31,7 @@ para mudar de branch, rodamos o seguinte comando: git checkout e o nome da branc
 antes de mergiar as branchs o ideal é buscar as atualizações do servidor para nossa máquina local
 depois que voltarmos novamente para nossa branch principal.
 para isso usamos o comando na branch principal: git pull
+git pull - traz a versão mais atual para nossa máquina
 
 git merge staging - para unir os códgos das duas branch (antes disso temos que voltar para nossa branch principal)
 
