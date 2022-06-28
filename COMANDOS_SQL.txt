@@ -1,0 +1,44 @@
+						AULA1
+create database nomedoBD; 			cria um novo banco de dados
+show databases;					mostra todos os bancos ativos
+use nomedobanco; 					acessar e selecionar o banco de dados
+show tables; 					mostra todas as tabelas do BD selecionado
+show columns from nomedatabela		mostra todas colunas de uma tabela
+describe 						mostras todas colunas e informação de uma tabela
+drop database nomedoBD;				apaga o banco de dados
+
+					
+						AULA2
+
+create table nomedatabela  			criando uma tabela
+(
+codigo    int not null,
+nome      vachar (80)
+telefone  varchar (15)
+);
+
+
+	INSERINDO DADOS EM UMA TABELA
+
+insert into cliente (codigo, nome, telefone) VALUES (1,'THIAGO', '12354875 ');
+
+	EDITANDO DADOS DE UMA TABELA
+
+alter table cliente
+	modify column telefone numeric(15);
+
+alter table cliente
+	modify column codigo int not null primary key auto_increment;
+
+	ADICIONANDO UM CAMPO EM UMA TABELA
+alter table produto
+	add grupo int;
+
+	APAGANDO UM CAMPO EM UMA TABELA
+alter table produto
+	drop column grupo;
+
+
+						AULA 3
+
+
